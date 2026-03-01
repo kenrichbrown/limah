@@ -93,7 +93,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black/30" />
 
         {/* hero text */}
-        <div className=" absolute inset-0 flex flex-col items-center justify-center text-white px-4 text-center">
+        <div className=" absolute mt-40 inset-0 flex flex-col items-center justify-center text-white px-4 text-center">
           <h1 className="text-3xl md:text-4xl font-bold drop-shadow">
             Limah’s Place Salon
           </h1>
